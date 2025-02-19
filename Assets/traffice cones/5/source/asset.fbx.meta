@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 53cd2f456a66f464c99e8f3e9b0e1aca
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Base01
+  - first:
+      1: 100004
+    second: Box001
+  - first:
+      1: 100006
+    second: Box001 1
+  - first:
+      1: 100008
+    second: Box001 2
+  - first:
+      1: 100010
+    second: Box001 3
+  - first:
+      1: 100012
+    second: Box009
+  - first:
+      1: 100014
+    second: Box010
+  - first:
+      1: 100016
+    second: Box011
+  - first:
+      1: 100018
+    second: Box012
+  - first:
+      1: 100020
+    second: Box013
+  - first:
+      1: 100022
+    second: Box014
+  - first:
+      1: 100024
+    second: Cylinder001
+  - first:
+      1: 100026
+    second: Cylinder001 1
+  - first:
+      1: 100028
+    second: Cylinder001 2
+  - first:
+      1: 100030
+    second: Cylinder002
+  - first:
+      1: 100032
+    second: Cylinder002 1
+  - first:
+      1: 100034
+    second: Cylinder003
+  - first:
+      1: 100036
+    second: Cylinder004
+  - first:
+      1: 100038
+    second: Cylinder006
+  - first:
+      1: 100040
+    second: Cylinder007
+  - first:
+      1: 100042
+    second: Cylinder008
+  - first:
+      1: 100044
+    second: Cylinder009
+  - first:
+      1: 100046
+    second: Cylinder010
+  - first:
+      1: 100048
+    second: Cylinder011
+  - first:
+      1: 100050
+    second: Cylinder012
+  - first:
+      1: 100052
+    second: Group001
+  - first:
+      1: 100054
+    second: Group001 1
+  - first:
+      1: 100056
+    second: kon
+  - first:
+      1: 100058
+    second: kon001
+  - first:
+      1: 100060
+    second: kon002
+  - first:
+      1: 100062
+    second: kon003
+  - first:
+      1: 100064
+    second: kon004
+  - first:
+      1: 100066
+    second: tong
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Base01
+  - first:
+      4: 400004
+    second: Box001
+  - first:
+      4: 400006
+    second: Box001 1
+  - first:
+      4: 400008
+    second: Box001 2
+  - first:
+      4: 400010
+    second: Box001 3
+  - first:
+      4: 400012
+    second: Box009
+  - first:
+      4: 400014
+    second: Box010
+  - first:
+      4: 400016
+    second: Box011
+  - first:
+      4: 400018
+    second: Box012
+  - first:
+      4: 400020
+    second: Box013
+  - first:
+      4: 400022
+    second: Box014
+  - first:
+      4: 400024
+    second: Cylinder001
+  - first:
+      4: 400026
+    second: Cylinder001 1
+  - first:
+      4: 400028
+    second: Cylinder001 2
+  - first:
+      4: 400030
+    second: Cylinder002
+  - first:
+      4: 400032
+    second: Cylinder002 1
+  - first:
+      4: 400034
+    second: Cylinder003
+  - first:
+      4: 400036
+    second: Cylinder004
+  - first:
+      4: 400038
+    second: Cylinder006
+  - first:
+      4: 400040
+    second: Cylinder007
+  - first:
+      4: 400042
+    second: Cylinder008
+  - first:
+      4: 400044
+    second: Cylinder009
+  - first:
+      4: 400046
+    second: Cylinder010
+  - first:
+      4: 400048
+    second: Cylinder011
+  - first:
+      4: 400050
+    second: Cylinder012
+  - first:
+      4: 400052
+    second: Group001
+  - first:
+      4: 400054
+    second: Group001 1
+  - first:
+      4: 400056
+    second: kon
+  - first:
+      4: 400058
+    second: kon001
+  - first:
+      4: 400060
+    second: kon002
+  - first:
+      4: 400062
+    second: kon003
+  - first:
+      4: 400064
+    second: kon004
+  - first:
+      4: 400066
+    second: tong
+  - first:
+      21: 2100000
+    second: 'Material #25'
+  - first:
+      21: 2100002
+    second: 'Material #26'
+  - first:
+      21: 2100004
+    second: 'Material #27'
+  - first:
+      21: 2100006
+    second: 'Material #30'
+  - first:
+      21: 2100008
+    second: 'Material #32'
+  - first:
+      21: 2100010
+    second: 'Material #33'
+  - first:
+      21: 2100012
+    second: 'Material #35'
+  - first:
+      21: 2100014
+    second: 'Material #36'
+  - first:
+      23: 2300000
+    second: Base01
+  - first:
+      23: 2300002
+    second: Box001
+  - first:
+      23: 2300004
+    second: Box001 1
+  - first:
+      23: 2300006
+    second: Box001 2
+  - first:
+      23: 2300008
+    second: Box001 3
+  - first:
+      23: 2300010
+    second: Box009
+  - first:
+      23: 2300012
+    second: Box010
+  - first:
+      23: 2300014
+    second: Box011
+  - first:
+      23: 2300016
+    second: Box012
+  - first:
+      23: 2300018
+    second: Box013
+  - first:
+      23: 2300020
+    second: Box014
+  - first:
+      23: 2300022
+    second: Cylinder001
+  - first:
+      23: 2300024
+    second: Cylinder001 1
+  - first:
+      23: 2300026
+    second: Cylinder001 2
+  - first:
+      23: 2300028
+    second: Cylinder002
+  - first:
+      23: 2300030
+    second: Cylinder002 1
+  - first:
+      23: 2300032
+    second: Cylinder003
+  - first:
+      23: 2300034
+    second: Cylinder004
+  - first:
+      23: 2300036
+    second: Cylinder006
+  - first:
+      23: 2300038
+    second: Cylinder007
+  - first:
+      23: 2300040
+    second: Cylinder008
+  - first:
+      23: 2300042
+    second: Cylinder009
+  - first:
+      23: 2300044
+    second: Cylinder010
+  - first:
+      23: 2300046
+    second: Cylinder011
+  - first:
+      23: 2300048
+    second: Cylinder012
+  - first:
+      33: 3300000
+    second: Base01
+  - first:
+      33: 3300002
+    second: Box001
+  - first:
+      33: 3300004
+    second: Box001 1
+  - first:
+      33: 3300006
+    second: Box001 2
+  - first:
+      33: 3300008
+    second: Box001 3
+  - first:
+      33: 3300010
+    second: Box009
+  - first:
+      33: 3300012
+    second: Box010
+  - first:
+      33: 3300014
+    second: Box011
+  - first:
+      33: 3300016
+    second: Box012
+  - first:
+      33: 3300018
+    second: Box013
+  - first:
+      33: 3300020
+    second: Box014
+  - first:
+      33: 3300022
+    second: Cylinder001
+  - first:
+      33: 3300024
+    second: Cylinder001 1
+  - first:
+      33: 3300026
+    second: Cylinder001 2
+  - first:
+      33: 3300028
+    second: Cylinder002
+  - first:
+      33: 3300030
+    second: Cylinder002 1
+  - first:
+      33: 3300032
+    second: Cylinder003
+  - first:
+      33: 3300034
+    second: Cylinder004
+  - first:
+      33: 3300036
+    second: Cylinder006
+  - first:
+      33: 3300038
+    second: Cylinder007
+  - first:
+      33: 3300040
+    second: Cylinder008
+  - first:
+      33: 3300042
+    second: Cylinder009
+  - first:
+      33: 3300044
+    second: Cylinder010
+  - first:
+      33: 3300046
+    second: Cylinder011
+  - first:
+      33: 3300048
+    second: Cylinder012
+  - first:
+      43: 4300000
+    second: Box001
+  - first:
+      43: 4300002
+    second: Box001
+  - first:
+      43: 4300004
+    second: Cylinder001
+  - first:
+      43: 4300006
+    second: Cylinder001
+  - first:
+      43: 4300008
+    second: Cylinder002
+  - first:
+      43: 4300010
+    second: Base01
+  - first:
+      43: 4300012
+    second: Box001
+  - first:
+      43: 4300014
+    second: Cylinder007
+  - first:
+      43: 4300016
+    second: Cylinder006
+  - first:
+      43: 4300018
+    second: Box001
+  - first:
+      43: 4300020
+    second: Cylinder003
+  - first:
+      43: 4300022
+    second: Cylinder002
+  - first:
+      43: 4300024
+    second: Cylinder001
+  - first:
+      43: 4300026
+    second: Cylinder004
+  - first:
+      43: 4300028
+    second: Cylinder008
+  - first:
+      43: 4300030
+    second: Box009
+  - first:
+      43: 4300032
+    second: Box010
+  - first:
+      43: 4300034
+    second: Box011
+  - first:
+      43: 4300036
+    second: Cylinder009
+  - first:
+      43: 4300038
+    second: Cylinder010
+  - first:
+      43: 4300040
+    second: Box012
+  - first:
+      43: 4300042
+    second: Cylinder011
+  - first:
+      43: 4300044
+    second: Box013
+  - first:
+      43: 4300046
+    second: Cylinder012
+  - first:
+      43: 4300048
+    second: Box014
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 9f9b0191784a8474f9a0e9409e6b8eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 3f465524a9b774e47a46de1e9785b49e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 29db0b16a0d9c84419540fcdb296407e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: b0426808a80db5f4bb24c9460811b5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #32'
+    second: {fileID: 2100000, guid: fc9270b9d3750744091c7775b4809d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #33'
+    second: {fileID: 2100000, guid: e6fc248b8583b0c47ad151af30494c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #35'
+    second: {fileID: 2100000, guid: c80f4b8bf3dda8546884df0f7edd7261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #36'
+    second: {fileID: 2100000, guid: 03b90af51dc09114ea7ffe22cf1407f4, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: asphalt_texture409
+    second: {fileID: 2800000, guid: fd1e8940d19d7e94681c5ff1eee9cc8c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: awas_TEXTURE
+    second: {fileID: 2800000, guid: 85a7b0f0484132f4783089ee5e6ad0e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drum_texture
+    second: {fileID: 2800000, guid: 97e3d1b9fa330c44185dbf85daedc9ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kon_uvw_texture
+    second: {fileID: 2800000, guid: 0c1aee193a240784bb06b864793df594, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: kotak_kayu_material
+    second: {fileID: 2800000, guid: dbde199bae468b04eb5148abce914aa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: papan tanda_uvw_texture
+    second: {fileID: 2800000, guid: 30b2ad61215e1e745a2d1b8bcb58aaa7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tire_uvw_dirt
+    second: {fileID: 2800000, guid: c01b782eca55b324aae8ba314a9d48b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: traffic light_material
+    second: {fileID: 2800000, guid: 94968432b2995dd47915e62c50ce201a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

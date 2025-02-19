@@ -1,0 +1,3905 @@
+fileFormatVersion: 2
+guid: 3aabdb5344e57d945a2c4ea8f4672ac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1501740057197449025
+    second: Level image
+  - first:
+      213: -1225501174709638383
+    second: level Locked image
+  - first:
+      213: -8803100725182845215
+    second: Star
+  - first:
+      213: 5244112082497234180
+    second: Box
+  - first:
+      213: -3966608975424909732
+    second: Female Icon
+  - first:
+      213: -8876534803054568788
+    second: Star Off
+  - first:
+      213: -3279610919834362628
+    second: Resume
+  - first:
+      213: -6319582867338029494
+    second: Male Icon
+  - first:
+      213: -3467973358167296731
+    second: Gold Icon
+  - first:
+      213: -6602256187014602147
+    second: Garrage Icon
+  - first:
+      213: 1386219817669581839
+    second: Remove Ads Icon
+  - first:
+      213: -4896222560333634193
+    second: Shop Icon
+  - first:
+      213: -7398977231766921673
+    second: Cash icon
+  - first:
+      213: 7013290110275554807
+    second: Share Icon
+  - first:
+      213: 2251032470127054689
+    second: Setting Icon
+  - first:
+      213: -4933599578060601912
+    second: Multiplayer Screen 1
+  - first:
+      213: -5317391031272805652
+    second: Unlock icon
+  - first:
+      213: -4568408563059825431
+    second: Decal Icon
+  - first:
+      213: 6642342872365311956
+    second: Quit Icon
+  - first:
+      213: 4674730380176199096
+    second: level Icon
+  - first:
+      213: -1621074520631387759
+    second: Multiplayer center line
+  - first:
+      213: 8061754747183671529
+    second: Locked Icon
+  - first:
+      213: 4521967531467713662
+    second: Right Arrow
+  - first:
+      213: 4028537586140306738
+    second: Paint Icon
+  - first:
+      213: -9209088477918983116
+    second: Camera Icon
+  - first:
+      213: 8151665946936481930
+    second: Pause Icon
+  - first:
+      213: 6830205171117876661
+    second: UI-Atlas-4K_26
+  - first:
+      213: -7706814828622340004
+    second: Garrage icon
+  - first:
+      213: 4468618437895485888
+    second: UI-Atlas-4K_28
+  - first:
+      213: -414429893399923253
+    second: Background Handle
+  - first:
+      213: -3445488077484599076
+    second: Sound on
+  - first:
+      213: -2838265435670089113
+    second: Gear Backdround
+  - first:
+      213: 8389427274108504037
+    second: Sound off
+  - first:
+      213: 3741637656360878448
+    second: Play Back
+  - first:
+      213: -2536203785938826531
+    second: UI-Atlas-4K_34
+  - first:
+      213: -8653210882898812953
+    second: Music off
+  - first:
+      213: 1770777717851189518
+    second: UI-Atlas-4K_36
+  - first:
+      213: -7262570163729808951
+    second: Sound Handler
+  - first:
+      213: -2917207593964230801
+    second: Modern Image
+  - first:
+      213: -6417592069069039460
+    second: UI-Atlas-4K_39
+  - first:
+      213: -2329079458719392248
+    second: Rewarded Video Icon
+  - first:
+      213: -2367889765752105714
+    second: Music Background
+  - first:
+      213: 6594282993445383733
+    second: Vs
+  - first:
+      213: 9214901561541788209
+    second: Button 2
+  - first:
+      213: -6064434810711944942
+    second: Play Icon
+  - first:
+      213: 1771031958321958752
+    second: Parking Modern
+  - first:
+      213: 147621185377211811
+    second: Parking Classic
+  - first:
+      213: -4874016313932239137
+    second: Home Play Icon
+  - first:
+      213: 2479145204971518843
+    second: Store icon
+  - first:
+      213: 4080980636923580347
+    second: Parking Multiplayer
+  - first:
+      213: -8212986829285226244
+    second: Back Icon
+  - first:
+      213: 3915711447944490839
+    second: Dino Icon
+  - first:
+      213: -7735806258099809385
+    second: Race Icon
+  - first:
+      213: -1251554744210885400
+    second: Shoot Games icon
+  - first:
+      213: 1877786974634270886
+    second: Bus Icon
+  - first:
+      213: 7998420337507435439
+    second: Shoot 3d Games icon
+  - first:
+      213: -3560702449005095740
+    second: Cross icon
+  - first:
+      213: 3387627967264583667
+    second: Sound Background
+  - first:
+      213: -7950630660092363155
+    second: Tick icon
+  - first:
+      213: 2750942666929769708
+    second: Resume Icon
+  - first:
+      213: -1416342030972490423
+    second: UI-Atlas-4K_60
+  - first:
+      213: -6542190318689917744
+    second: Level Icon Background
+  - first:
+      213: 4500029557637245075
+    second: Back icon 2
+  - first:
+      213: -4280753594833762357
+    second: Restart Icon
+  - first:
+      213: -3276839814358993535
+    second: Top Bar
+  - first:
+      213: -7119048196100559589
+    second: Fill Bar Background
+  - first:
+      213: -5649145642527793217
+    second: Wheel 1
+  - first:
+      213: -6985406711230387770
+    second: Wheel 2
+  - first:
+      213: -5086450736330370223
+    second: Wheel 3
+  - first:
+      213: -9109977015739668954
+    second: Wheel 4
+  - first:
+      213: -7284888946263475757
+    second: Wheel 5
+  - first:
+      213: 8955100058879554344
+    second: Wheel 6
+  - first:
+      213: 7001096741274218078
+    second: Gold 3
+  - first:
+      213: -5433076741668516209
+    second: Level Complete Panel
+  - first:
+      213: 1906730612699856716
+    second: Break
+  - first:
+      213: 1014885288118801594
+    second: Race
+  - first:
+      213: -4650818017544734287
+    second: Steering
+  - first:
+      213: 7044501190683478358
+    second: UI-Atlas-4K_77
+  - first:
+      213: -2932798664949896708
+    second: Game Lobby Logo
+  - first:
+      213: 9140258565203751039
+    second: Gold 1
+  - first:
+      213: 5937512312567610697
+    second: Gold 4
+  - first:
+      213: -1158110284199232068
+    second: Classic Image
+  - first:
+      213: -6604304914124792698
+    second: Day Show Icon
+  - first:
+      213: -1160936416547771751
+    second: UI-Atlas-4K_83
+  - first:
+      213: 378673803195118516
+    second: Setting Bottom
+  - first:
+      213: -4008432724974812662
+    second: Gold 2
+  - first:
+      213: -5450359180292755987
+    second: Daily Reward Title
+  - first:
+      213: 4883172857107041132
+    second: Music Icon
+  - first:
+      213: 6642168319604296050
+    second: UI-Atlas-4K_88
+  - first:
+      213: -6373076897878777550
+    second: UI-Atlas-4K_89
+  - first:
+      213: -3902297666423174961
+    second: UI-Atlas-4K_90
+  - first:
+      213: -5639556307581603425
+    second: Back Rotate
+  - first:
+      213: -7470031125438448585
+    second: Watch video back
+  - first:
+      213: 5370928189646731009
+    second: UI-Atlas-4K_93
+  - first:
+      213: 1257886557441268703
+    second: UI-Atlas-4K_94
+  - first:
+      213: -551601394718741573
+    second: Completed Stamp
+  - first:
+      213: 626680412644363012
+    second: Background level selection
+  - first:
+      213: -2218592314146767077
+    second: Star animated
+  - first:
+      213: -7505531857417423605
+    second: Button
+  - first:
+      213: 2763142844750551068
+    second: Play Text
+  - first:
+      213: 4898416216188680784
+    second: UI-Atlas-4K_100
+  - first:
+      213: 311430107129767373
+    second: UI-Atlas-4K_101
+  - first:
+      213: -2332566330277835396
+    second: Winner Stamp
+  - first:
+      213: -6426635056375544745
+    second: Failed Stamp
+  - first:
+      213: -8141166917855874788
+    second: Toggle click
+  - first:
+      213: -8214490047677849212
+    second: Title Bar
+  - first:
+      213: 2865028849151931422
+    second: Car
+  - first:
+      213: 2477415448273339023
+    second: Multiplayer Screen 2
+  - first:
+      213: -4707814108886837819
+    second: Wheel Icon
+  - first:
+      213: -4115949673508096229
+    second: More Games icon
+  - first:
+      213: 956458444234944586
+    second: UI-Atlas-4K_110
+  - first:
+      213: -274090037021582020
+    second: Cones
+  - first:
+      213: 7034423813313189624
+    second: Arrow
+  - first:
+      213: 5782257524471403092
+    second: Start Engine
+  - first:
+      213: 3841675725033863199
+    second: Stop Engine
+  - first:
+      213: 1906730612699856716
+    second: UI-Atlas-4K_74
+  - first:
+      213: -3469634200491117992
+    second: About Us icon
+  - first:
+      213: -807161980874870344
+    second: Fill Bar
+  - first:
+      213: 3892491715700399623
+    second: Cash 1
+  - first:
+      213: 2787109290005061341
+    second: Cash 2
+  - first:
+      213: 6381882145269936948
+    second: cash 3
+  - first:
+      213: -1619527793184712415
+    second: Cash 4
+  - first:
+      213: -1021525959387009217
+    second: Orange Bar
+  - first:
+      213: 3434520500830424057
+    second: Male 2
+  - first:
+      213: 375780372713190755
+    second: Male 1
+  - first:
+      213: -8813364420817336758
+    second: Female 1
+  - first:
+      213: 594746866754833434
+    second: Female 2
+  - first:
+      213: -7114427389666234280
+    second: Male 3
+  - first:
+      213: -696350336694773103
+    second: Female 3
+  - first:
+      213: -8302753020768936440
+    second: Remove ads back
+  - first:
+      213: 1501740057197449025
+    second: UI-Atlas-4K_0
+  - first:
+      213: 1941750663256980482
+    second: Distributor
+  - first:
+      213: -1225501174709638383
+    second: UI-Atlas-4K_1
+  - first:
+      213: -575311487231931282
+    second: Level Completed Title Background
+  - first:
+      213: -36439134256470345
+    second: Green Bar
+  - first:
+      213: -9197639388856857633
+    second: Switch Control
+  - first:
+      213: -1942958414644108219
+    second: Music Icon 2
+  - first:
+      213: 202191832765262846
+    second: Sound Icon 2
+  - first:
+      213: -2235016750041313880
+    second: AD
+  - first:
+      213: 5994084705898751457
+    second: AD Bg 1
+  - first:
+      213: 253490839417321501
+    second: AD Bg 2
+  - first:
+      213: -6576955083193047660
+    second: Black bg
+  - first:
+      213: 8658176646466216851
+    second: White bg
+  - first:
+      213: 554459243581348059
+    second: Level classic icon
+  - first:
+      213: 3558260885162309738
+    second: Level modern bg
+  - first:
+      213: -6453014464096842088
+    second: IAP panel
+  - first:
+      213: -5639276472511985315
+    second: unlock all cars
+  - first:
+      213: -5893547500402363015
+    second: Left arrow
+  - first:
+      213: 3995620085903198583
+    second: right arrow
+  - first:
+      213: 5201842504930484824
+    second: no ads
+  - first:
+      213: -5498483677842207187
+    second: MULTPLAYER ICON
+  - first:
+      213: 349735152312480864
+    second: Arrow Control
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level image
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3483
+        width: 364
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f515ea323fcfc04baac8a70441a3d51
+      internalID: 1501740057197449025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level Locked image
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3483
+        width: 364
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd75c1d5f25a164faa1024ff560186b
+      internalID: -1225501174709638383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3929
+        width: 166
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e2a4a7c65732439f120007846bd52
+      internalID: -8803100725182845215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 3851
+        width: 167
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53733301560056b49a96ed4e45dab117
+      internalID: 5244112082497234180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Icon
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 3927
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf5c7ee547f2445bfc8464963fc67e
+      internalID: -3966608975424909732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Off
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 3767
+        width: 166
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee7b41d0adbc9d4ab0cb3d2daab909c
+      internalID: -8876534803054568788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resume
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 3877
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff822579749e743af30c01f669af5d
+      internalID: -3279610919834362628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male Icon
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 3835
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d51da8e289ee747991656e8c11fba0
+      internalID: -6319582867338029494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Icon
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3789
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ad30933c28cc448b9b3635fb3d1401
+      internalID: -3467973358167296731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garrage Icon
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 3761
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3ad12abe56f14f86e802d889c035d
+      internalID: -6602256187014602147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remove Ads Icon
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 3643
+        width: 177
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd75ac925790ca48823f978b495ed9d
+      internalID: 1386219817669581839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shop Icon
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 3693
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da8c830f4c90304d8d272a2ced3881b
+      internalID: -4896222560333634193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash icon
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 3579
+        width: 108
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac8774b7234d94c93ab519d9a5cf17
+      internalID: -7398977231766921673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Share Icon
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 3621
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522bdc16b98f144ab4ea25f5779f078
+      internalID: 7013290110275554807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Icon
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 3549
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac220950e2d8284cb298e0175ea0e9f
+      internalID: 2251032470127054689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multiplayer Screen 1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2559
+        width: 1151
+        height: 829
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3019f389dfd9b1041af231f76ffd57b1
+      internalID: -4933599578060601912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unlock icon
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3402
+        width: 258
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75d9c0adfd8ddd4297992670956c6ef
+      internalID: -5317391031272805652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decal Icon
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 3301
+        width: 117
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e9a93d94deef468f78b3c918a75b7
+      internalID: -4568408563059825431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit Icon
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 3479
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f7abeb1c46508439ed4d3a8af07075
+      internalID: 6642342872365311956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: level Icon
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2609
+        width: 573
+        height: 832
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515086e2b5cf564f818d1fd52a5a708
+      internalID: 4674730380176199096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multiplayer center line
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2543
+        width: 364
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc444efe5192c1a419cbbb96a6e7b117
+      internalID: -1621074520631387759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Locked Icon
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 3377
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab68fd5e9399624bac81e6c9c929915
+      internalID: 8061754747183671529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right Arrow
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 3301
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d907c01ac21ad84789db07ce68dfa96
+      internalID: 4521967531467713662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paint Icon
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 3175
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e378acb40f29cc45b3dfcba10177f2f
+      internalID: 4028537586140306738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Camera Icon
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 3211
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593b3eb01b2bee54ca9ba30b0576856c
+      internalID: -9209088477918983116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pause Icon
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3145
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9030928920477494b9e3a86bf9c6450a
+      internalID: 8151665946936481930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garrage icon
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 3073
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc03ae7d9348b8543ae1ff5a03e9263d
+      internalID: -7706814828622340004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_28
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 3016
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29b4bb2c8d76fa47b6b75f1b5a8720b
+      internalID: 4468618437895485888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Handle
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 2968
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae017cd45b669534abb14761de51ec7b
+      internalID: -414429893399923253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound on
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 2943
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7775b74f653b5e448a0379074f537e21
+      internalID: -3445488077484599076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gear Backdround
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 2793
+        width: 122
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba0b1c310b77bf4fbce6c24920041db
+      internalID: -2838265435670089113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound off
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 2851
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf7e6294e6e0949901ee6bc9e1e1bf
+      internalID: 8389427274108504037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_34
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 2775
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f4efffb15ff4b4da2b383d550d357e
+      internalID: -2536203785938826531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music off
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 2703
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fc63f16def48545a53191c7c211eb6
+      internalID: -8653210882898812953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound Handler
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 2633
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7b4e4f9e8a84441a86087cb22e9f27
+      internalID: -7262570163729808951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modern Image
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1974
+        width: 553
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c26697125c34743bac6b9804a88df0
+      internalID: -2917207593964230801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_39
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 2211
+        width: 314
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf636e52c726c74eab1425e775ae300
+      internalID: -6417592069069039460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rewarded Video Icon
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 2551
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565f133a0e0fd846b58ddfafaf35abb
+      internalID: -2329079458719392248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Background
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2171
+        width: 1470
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129bdae3e4cd6284392d74b6bcbddcfe
+      internalID: -2367889765752105714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vs
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 2283
+        width: 268
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7dba061140c14ead92964098af2b4
+      internalID: 6594282993445383733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button 2
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2405
+        width: 280
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95bf664d3c375488560eca31e3f846
+      internalID: 9214901561541788209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Icon
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 2453
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133cf562d2339594195ba0575f664684
+      internalID: -6064434810711944942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parking Modern
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 2267
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a5dd9a5ceb1f4486c53420a7b5a23
+      internalID: 1771031958321958752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parking Classic
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2267
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a82b605e58d3344ba16bbf9cc5fbda8
+      internalID: 147621185377211811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Home Play Icon
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 2351
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f7369524b46164db432648fd3d80f2
+      internalID: -4874016313932239137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parking Multiplayer
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2227
+        width: 237
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb747ea7f3c184c84375eed52ab51b
+      internalID: 4080980636923580347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Icon
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 2253
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a4d8ff3221d3d4a85b4cde984ed90b
+      internalID: -8212986829285226244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dino Icon
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1809
+        width: 374
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a196d6289213074ab39e1cba7879308
+      internalID: 3915711447944490839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race Icon
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1809
+        width: 374
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429882dcefec2fa45a37dc69f0ef856a
+      internalID: -7735806258099809385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot Games icon
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1809
+        width: 374
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2ca0faad33a549932d48de87fab21
+      internalID: -1251554744210885400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bus Icon
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 1813
+        width: 374
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aac2a4d57d1bcc4aaacc577951889aa
+      internalID: 1877786974634270886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shoot 3d Games icon
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1809
+        width: 374
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e85d6891addd47947799a8b5fe86d
+      internalID: 7998420337507435439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross icon
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 2171
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac991fbd7409b9347ba0bc28d89e080e
+      internalID: -3560702449005095740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound Background
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1801
+        width: 1474
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b33da1809bef4eb59251a4ca1fa9f
+      internalID: 3387627967264583667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tick icon
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 2099
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9fe52ca95f034a808a0fdffde8f56
+      internalID: -7950630660092363155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Resume Icon
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 2005
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd322c350bc55594bbb01ff90f7108b7
+      internalID: 2750942666929769708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Icon Background
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1147
+        width: 561
+        height: 808
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d7cc238d849fa4589f1d161b1f68e7
+      internalID: -6542190318689917744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back icon 2
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 1909
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f12f10881e47b45a7c7f8b3e1d519b
+      internalID: 4500029557637245075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Restart Icon
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 1805
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636820b5c4691614eaee1d840cdc4da3
+      internalID: -4280753594833762357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Top Bar
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1466
+        width: 2220
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e33d369f8a80e8428e4832cd7498ffd
+      internalID: -3276839814358993535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill Bar Background
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1741
+        width: 828
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7311b242eb89434a99f123902fddbee
+      internalID: -7119048196100559589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 1
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1647
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e33eab8aeb69e469f8acd85fc49b5a
+      internalID: -5649145642527793217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 2
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1646
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf63a680a3b0a4e8ee322799aa4ae5
+      internalID: -6985406711230387770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 3
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1647
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f04f999d5a822d47820c26ae939a380
+      internalID: -5086450736330370223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 4
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1645
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483c824ec465524e8a82ea8f1d7f169
+      internalID: -9109977015739668954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 5
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1645
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04c23ac2152fc4f8136dc3f8e42b41
+      internalID: -7284888946263475757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel 6
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1647
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb0885760afa2d41806ef3dcbbc1d95
+      internalID: 8955100058879554344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold 3
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 1488
+        width: 273
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8ee640b6781d47af7565b05db8395
+      internalID: 7001096741274218078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Complete Panel
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 587
+        width: 950
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be006dfa711a28f4a80e3a1cb4daa6a7
+      internalID: -5433076741668516209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Break
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1192
+        width: 278
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441251db94b0cb0479837ba1c1af7cee
+      internalID: 1906730612699856716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Race
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1193
+        width: 130
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9ddf04d571514ba35b39cb295237a
+      internalID: 1014885288118801594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Steering
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1093
+        width: 372
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1beb8128f516554bb8758991197162c
+      internalID: -4650818017544734287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Lobby Logo
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 1077
+        width: 372
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4195ecb99c3647a0cf90b3fb8f791
+      internalID: -2932798664949896708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold 1
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1210
+        width: 186
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710977757d5c86418620b95c34dbcce
+      internalID: 9140258565203751039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold 4
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1224
+        width: 274
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab714e0a8269f745873e16255c0f136
+      internalID: 5937512312567610697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Classic Image
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 491
+        width: 558
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd99737ef096f4d885659b0ff6007b
+      internalID: -1158110284199232068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Show Icon
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 1032
+        width: 312
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded2b789e2916db478e82d8e7da6a805
+      internalID: -6604304914124792698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_83
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 841
+        width: 158
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d62e9188658ec4cb3989efc0320397
+      internalID: -1160936416547771751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setting Bottom
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 992
+        width: 358
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b8c5d13cb9754c9e03801678a9062
+      internalID: 378673803195118516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold 2
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 954
+        width: 277
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d26896951b72ea409498ad8b25dd830
+      internalID: -4008432724974812662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Daily Reward Title
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 839
+        width: 576
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc36055a0d295247bcb5bc192551bd6
+      internalID: -5450359180292755987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Icon
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 723
+        width: 293
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065d942cc95ff34c9f5bc361a7c79fc
+      internalID: 4883172857107041132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_88
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 693
+        width: 244
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b9514d2e2a0e479959469e895643f
+      internalID: 6642168319604296050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_89
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 687
+        width: 253
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae020dded997f45adb4dc690a78237
+      internalID: -6373076897878777550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_90
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 789
+        width: 272
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71f321055d0c94fbcf29a747a68f6b
+      internalID: -3902297666423174961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Rotate
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 689
+        width: 175
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725db93490cf6e74c93b25a934cff0a4
+      internalID: -5639556307581603425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watch video back
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 115
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512f9c87b630b2439f86399f649c950
+      internalID: -7470031125438448585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_93
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 96
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ebf7eb335c39489c726b317c1badf
+      internalID: 5370928189646731009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_94
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 111
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1573f0b9a8a1b214799ffd701178c7ae
+      internalID: 1257886557441268703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Completed Stamp
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 211
+        width: 234
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89f14979526d645916371dbb52751e
+      internalID: -551601394718741573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background level selection
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 0
+        width: 1744
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab13eb7302cfca46a3d23a2927c9673
+      internalID: 626680412644363012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star animated
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 116
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7959297efe424c8e7e53c5d954597
+      internalID: -2218592314146767077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 130
+        width: 186
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24224343d03d224491103802eacd104
+      internalID: -7505531857417423605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Text
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 127
+        width: 166
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d90ea1c97bc2324e8202c831adfef72
+      internalID: 2763142844750551068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_100
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 137
+        width: 160
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5a2f48c4aed84da5b7a473fa4a157
+      internalID: 4898416216188680784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_101
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 117
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147f4c46e99a9d14896d16467847ee55
+      internalID: 311430107129767373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winner Stamp
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 3
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61deb31a956121a41ade13393068b471
+      internalID: -2332566330277835396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Stamp
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1
+        width: 230
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f88a969095e24f9eaa7a38878c40b
+      internalID: -6426635056375544745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toggle click
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f2d9f45049ff48a1576eb365a5d91
+      internalID: -8141166917855874788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Bar
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 8
+        width: 862
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da747a816dc5c77478a697e02ef26fd4
+      internalID: -8214490047677849212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3420
+        width: 237
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26727ec52162cf44bec2bc6518dba04
+      internalID: 2865028849151931422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Multiplayer Screen 2
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2559
+        width: 1085
+        height: 829
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8362e37720c1a449a31824c78bbd724
+      internalID: 2477415448273339023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Store icon
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 3989
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd7b2b280bac01498216598003cb399
+      internalID: 2479145204971518843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheel Icon
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 3428
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61a5cf7b2f4df468cd5a06bc3e26d3
+      internalID: -4707814108886837819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_26
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 710
+        width: 213
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bc3aa3ccc1d264b92297b0666d8375
+      internalID: 6830205171117876661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play Back
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 688
+        width: 314
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ce551478113e4cad95c421cc06264
+      internalID: 3741637656360878448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_36
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1008
+        width: 237
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec19448db5497246b584fe2ab709805
+      internalID: 1770777717851189518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_60
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 836
+        width: 320
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bf533aec8f414c9c7451cfc00ff29
+      internalID: -1416342030972490423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More Games icon
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 952
+        width: 382
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0704949c8863204fba11e18d116f049
+      internalID: -4115949673508096229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_110
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 581
+        width: 736
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63da921d51043c438e75996e73faebd
+      internalID: 956458444234944586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cones
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 702
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe10758fb273441a550e915bef1c5a
+      internalID: -274090037021582020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1188
+        width: 273
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbd67064661adf4dbc008f4d41b0e61
+      internalID: 7034423813313189624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start Engine
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1307
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c588a13110e4b5f429261c96eceb88fe
+      internalID: 5782257524471403092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stop Engine
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1305
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1830dd0749494e8d8302f77783180
+      internalID: 3841675725033863199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_74
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1100
+        width: 305
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f6c06fc2cb5a442a945d5cfd75dd67
+      internalID: 4310081740710715215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: About Us icon
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1228
+        width: 381
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c028a50da6a5f7943a9613ae6d538582
+      internalID: -3469634200491117992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fill Bar
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1765
+        width: 828
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4ce7215dd5fa468a96f918cc075fd
+      internalID: -807161980874870344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash 1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 341
+        width: 255
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb26359c6a29e43448c347a2dcb1588c
+      internalID: 3892491715700399623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash 2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 296
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf913892186f6b347bb90c96340089d7
+      internalID: 2787109290005061341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cash 3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 29
+        width: 236
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b08ed42b6bf464494fbcf9fc666b00
+      internalID: 6381882145269936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cash 4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 272
+        width: 286
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73252cf4091c84a4fb5e64accd687b65
+      internalID: -1619527793184712415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange Bar
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1617
+        width: 203
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540199115ce9dc4883d181812d09788
+      internalID: -1021525959387009217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male 2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1596
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f546db6be647784793c33c214ab9444
+      internalID: 3434520500830424057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male 1
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1596
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e2f19484f6a64d993ad8aa88f1db9
+      internalID: 375780372713190755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female 1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1596
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0d4b069aab544abf866f44e0974ba
+      internalID: -8813364420817336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female 2
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1596
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077bc723ac050594e800fee1f819cc6f
+      internalID: 594746866754833434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male 3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1596
+        width: 148
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb853635ac1b8174b8b6a38309bc8129
+      internalID: -7114427389666234280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female 3
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1596
+        width: 139
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e1f0e221a97294490760c0dae86feb
+      internalID: -696350336694773103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remove ads back
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 271
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229affa11fd8954fbe7a357305093d9
+      internalID: -8302753020768936440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_0
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 104
+        width: 254
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc68b2b3b0eb7b4c926c46ad1a2d306
+      internalID: 5056204790325849776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Distributor
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 84
+        width: 548
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe06b5f27cdc1148857417bba77be90
+      internalID: 1941750663256980482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Atlas-4K_1
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 299
+        width: 480
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be761066eeff81d47829370a242997c7
+      internalID: -5073886152970345235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level Completed Title Background
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 423
+        width: 938
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1ec71bf38bd4144aff1fed11b8afd1
+      internalID: -575311487231931282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Bar
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1666
+        width: 203
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d2e7c9e1331304da5f5f74faa31970
+      internalID: -36439134256470345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switch Control
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 3909
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632702d26a205ca438dd5e0efebe4409
+      internalID: -9197639388856857633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Music Icon 2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 3642
+        width: 230
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d794f3b1fe317544a8006adff5937e42
+      internalID: -1942958414644108219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound Icon 2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3650
+        width: 165
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91769ea34acb8a4ea20c3a4d46867c0
+      internalID: 202191832765262846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AD
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4010
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a69b83419bed24d9d4beba56e7ba3e
+      internalID: -2235016750041313880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AD Bg 1
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 3916
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a001463988d6d9c4ca8f974c1f046242
+      internalID: 5994084705898751457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AD Bg 2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3940
+        width: 126
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb12c59fa069db4ea9a4f91dadc42db
+      internalID: 253490839417321501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black bg
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 3534
+        width: 311
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380a56ac5d69bc46a7843a0e5f51e8f
+      internalID: -6576955083193047660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White bg
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3577
+        width: 276
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a5e524b82e98d41a945e4b5d25a7e5
+      internalID: 8658176646466216851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level classic icon
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3423
+        width: 546
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92058b86cdf2e7a4cb3909f7a214e862
+      internalID: 554459243581348059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level modern bg
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 3423
+        width: 546
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64efe6cbd77dd42a83b8b915b0ec0d
+      internalID: 3558260885162309738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IAP panel
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 3610
+        width: 763
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17445b01df2a3e409c1bf7b7ded7870
+      internalID: -6453014464096842088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock all cars
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 3411
+        width: 716
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c21a4c28fc7f4b86812425c605577
+      internalID: -5639276472511985315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left arrow
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 3578
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb2e2da8f0d68440976f0dd9a574042
+      internalID: -5893547500402363015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: right arrow
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 3398
+        width: 152
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772b4a5a3ffb66478ddf25e3b4fb785
+      internalID: 3995620085903198583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: no ads
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 2631
+        width: 395
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991577fe7ae677345839adc3a617ef1e
+      internalID: 5201842504930484824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MULTPLAYER ICON
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 206
+        width: 775
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72035799c0daac4f8aac0db0f76e47c
+      internalID: -5498483677842207187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow Control
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3726
+        width: 143
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e224e9da7063741a239ce3b734d7a1
+      internalID: 349735152312480864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d2b9f32e30c4664aaa327b79e6db46c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AD: -2235016750041313880
+      AD Bg 1: 5994084705898751457
+      AD Bg 2: 253490839417321501
+      About Us icon: -3469634200491117992
+      Arrow: 7034423813313189624
+      Arrow Control: 349735152312480864
+      Back Icon: -8212986829285226244
+      Back Rotate: -5639556307581603425
+      Back icon 2: 4500029557637245075
+      Background Handle: -414429893399923253
+      Background level selection: 626680412644363012
+      Black bg: -6576955083193047660
+      Box: 5244112082497234180
+      Break: 1906730612699856716
+      Bus Icon: 1877786974634270886
+      Button: -7505531857417423605
+      Button 2: 9214901561541788209
+      Camera Icon: -9209088477918983116
+      Car: 2865028849151931422
+      Cash 1: 3892491715700399623
+      Cash 2: 2787109290005061341
+      Cash 4: -1619527793184712415
+      Cash icon: -7398977231766921673
+      Classic Image: -1158110284199232068
+      Completed Stamp: -551601394718741573
+      Cones: -274090037021582020
+      Cross icon: -3560702449005095740
+      Daily Reward Title: -5450359180292755987
+      Day Show Icon: -6604304914124792698
+      Decal Icon: -4568408563059825431
+      Dino Icon: 3915711447944490839
+      Distributor: 1941750663256980482
+      Failed Stamp: -6426635056375544745
+      Female 1: -8813364420817336758
+      Female 2: 594746866754833434
+      Female 3: -696350336694773103
+      Female Icon: -3966608975424909732
+      Fill Bar: -807161980874870344
+      Fill Bar Background: -7119048196100559589
+      Game Lobby Logo: -2932798664949896708
+      Garrage Icon: -6602256187014602147
+      Garrage icon: -7706814828622340004
+      Gear Backdround: -2838265435670089113
+      Gold 1: 9140258565203751039
+      Gold 2: -4008432724974812662
+      Gold 3: 7001096741274218078
+      Gold 4: 5937512312567610697
+      Gold Icon: -3467973358167296731
+      Green Bar: -36439134256470345
+      Home Play Icon: -4874016313932239137
+      IAP panel: -6453014464096842088
+      Left arrow: -5893547500402363015
+      Level Complete Panel: -5433076741668516209
+      Level Completed Title Background: -575311487231931282
+      Level Icon Background: -6542190318689917744
+      Level classic icon: 554459243581348059
+      Level image: 1501740057197449025
+      Level modern bg: 3558260885162309738
+      Locked Icon: 8061754747183671529
+      MULTPLAYER ICON: -5498483677842207187
+      Male 1: 375780372713190755
+      Male 2: 3434520500830424057
+      Male 3: -7114427389666234280
+      Male Icon: -6319582867338029494
+      Modern Image: -2917207593964230801
+      More Games icon: -4115949673508096229
+      Multiplayer Screen 1: -4933599578060601912
+      Multiplayer Screen 2: 2477415448273339023
+      Multiplayer center line: -1621074520631387759
+      Music Background: -2367889765752105714
+      Music Icon: 4883172857107041132
+      Music Icon 2: -1942958414644108219
+      Music off: -8653210882898812953
+      Orange Bar: -1021525959387009217
+      Paint Icon: 4028537586140306738
+      Parking Classic: 147621185377211811
+      Parking Modern: 1771031958321958752
+      Parking Multiplayer: 4080980636923580347
+      Pause Icon: 8151665946936481930
+      Play Back: 3741637656360878448
+      Play Icon: -6064434810711944942
+      Play Text: 2763142844750551068
+      Quit Icon: 6642342872365311956
+      Race: 1014885288118801594
+      Race Icon: -7735806258099809385
+      Remove Ads Icon: 1386219817669581839
+      Remove ads back: -8302753020768936440
+      Restart Icon: -4280753594833762357
+      Resume: -3279610919834362628
+      Resume Icon: 2750942666929769708
+      Rewarded Video Icon: -2329079458719392248
+      Right Arrow: 4521967531467713662
+      Setting Bottom: 378673803195118516
+      Setting Icon: 2251032470127054689
+      Share Icon: 7013290110275554807
+      Shoot 3d Games icon: 7998420337507435439
+      Shoot Games icon: -1251554744210885400
+      Shop Icon: -4896222560333634193
+      Sound Background: 3387627967264583667
+      Sound Handler: -7262570163729808951
+      Sound Icon 2: 202191832765262846
+      Sound off: 8389427274108504037
+      Sound on: -3445488077484599076
+      Star: -8803100725182845215
+      Star Off: -8876534803054568788
+      Star animated: -2218592314146767077
+      Start Engine: 5782257524471403092
+      Steering: -4650818017544734287
+      Stop Engine: 3841675725033863199
+      Store icon: 2479145204971518843
+      Switch Control: -9197639388856857633
+      Tick icon: -7950630660092363155
+      Title Bar: -8214490047677849212
+      Toggle click: -8141166917855874788
+      Top Bar: -3276839814358993535
+      UI-Atlas-4K_0: 5056204790325849776
+      UI-Atlas-4K_1: -5073886152970345235
+      UI-Atlas-4K_100: 4898416216188680784
+      UI-Atlas-4K_101: 311430107129767373
+      UI-Atlas-4K_110: 956458444234944586
+      UI-Atlas-4K_26: 6830205171117876661
+      UI-Atlas-4K_28: 4468618437895485888
+      UI-Atlas-4K_34: -2536203785938826531
+      UI-Atlas-4K_36: 1770777717851189518
+      UI-Atlas-4K_39: -6417592069069039460
+      UI-Atlas-4K_60: -1416342030972490423
+      UI-Atlas-4K_74: 4310081740710715215
+      UI-Atlas-4K_83: -1160936416547771751
+      UI-Atlas-4K_88: 6642168319604296050
+      UI-Atlas-4K_89: -6373076897878777550
+      UI-Atlas-4K_90: -3902297666423174961
+      UI-Atlas-4K_93: 5370928189646731009
+      UI-Atlas-4K_94: 1257886557441268703
+      Unlock icon: -5317391031272805652
+      Vs: 6594282993445383733
+      Watch video back: -7470031125438448585
+      Wheel 1: -5649145642527793217
+      Wheel 2: -6985406711230387770
+      Wheel 3: -5086450736330370223
+      Wheel 4: -9109977015739668954
+      Wheel 5: -7284888946263475757
+      Wheel 6: 8955100058879554344
+      Wheel Icon: -4707814108886837819
+      White bg: 8658176646466216851
+      Winner Stamp: -2332566330277835396
+      cash 3: 6381882145269936948
+      level Icon: 4674730380176199096
+      level Locked image: -1225501174709638383
+      no ads: 5201842504930484824
+      right arrow: 3995620085903198583
+      unlock all cars: -5639276472511985315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

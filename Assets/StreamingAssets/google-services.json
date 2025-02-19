@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464958913363",
+    "firebase_url": "https://hard-car-parking.firebaseio.com",
+    "project_id": "hard-car-parking",
+    "storage_bucket": "hard-car-parking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464958913363:android:db57bc406bf8832e1bffa6",
+        "android_client_info": {
+          "package_name": "com.gameslobby.carparking.driving.game.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464958913363-904v9hqhsnjpvv5q6r753sll7719um00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAfzKQxbULznetb71c11JerSIGxGDLimo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464958913363-904v9hqhsnjpvv5q6r753sll7719um00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
